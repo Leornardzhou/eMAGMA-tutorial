@@ -28,7 +28,7 @@ The analysis is done using MAGMA v1.07b (de Leeuw, Neale, Heskes, & Posthuma, 20
 
 *MAGMA*
     
-    wget https:// https://ctg.cncr.nl/software/MAGMA/prog/magma_v1.07b_static.zip
+    wget https://ctg.cncr.nl/software/MAGMA/prog/magma_v1.09_static.zip
 
 *Auxiliary files for 37(hg19)*
         
